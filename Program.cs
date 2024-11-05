@@ -1,6 +1,4 @@
 ﻿using System;
-
-
 class Program
 {
     static void Main()
@@ -54,6 +52,5 @@ class Program
             Console.Write($"'{array[i]}', ");
         }
         Console.Write("]");
-
     }
 }
