@@ -1,0 +1,15 @@
+C:\Users\Eric\work-archive\HW-END-BLOCK\obj\Debug\net8.0\HW-END-BLOCK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\work-archive\HW-END-BLOCK\obj\Debug\net8.0\HW-END-BLOCK.AssemblyInfoInputs.cache
+C:\Users\Eric\work-archive\HW-END-BLOCK\obj\Debug\net8.0\HW-END-BLOCK.AssemblyInfo.cs
+C:\Users\Eric\work-archive\HW-END-BLOCK\obj\Debug\net8.0\HW-END-BLOCK.csproj.CoreCompileInputs.cache
+C:\Users\Eric\work-archive\HW-END-BLOCK\obj\Debug\net8.0\HW-END-BLOCK.sourcelink.json
+C:\Users\Eric\work-archive\HW-END-BLOCK\bin\Debug\net8.0\HW-END-BLOCK.exe
+C:\Users\Eric\work-archive\HW-END-BLOCK\bin\Debug\net8.0\HW-END-BLOCK.deps.json
+C:\Users\Eric\work-archive\HW-END-BLOCK\bin\Debug\net8.0\HW-END-BLOCK.runtimeconfig.json
+C:\Users\Eric\work-archive\HW-END-BLOCK\bin\Debug\net8.0\HW-END-BLOCK.dll
+C:\Users\Eric\work-archive\HW-END-BLOCK\bin\Debug\net8.0\HW-END-BLOCK.pdb
+C:\Users\Eric\work-archive\HW-END-BLOCK\obj\Debug\net8.0\HW-END-BLOCK.dll
+C:\Users\Eric\work-archive\HW-END-BLOCK\obj\Debug\net8.0\refint\HW-END-BLOCK.dll
+C:\Users\Eric\work-archive\HW-END-BLOCK\obj\Debug\net8.0\HW-END-BLOCK.pdb
+C:\Users\Eric\work-archive\HW-END-BLOCK\obj\Debug\net8.0\HW-END-BLOCK.genruntimeconfig.cache
+C:\Users\Eric\work-archive\HW-END-BLOCK\obj\Debug\net8.0\ref\HW-END-BLOCK.dll
