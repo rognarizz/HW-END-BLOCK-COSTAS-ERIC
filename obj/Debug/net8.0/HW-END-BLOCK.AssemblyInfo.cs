@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HW-END-BLOCK")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+341a352d1ad33ad2817813596a01403127cefc95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40e6fdfc1740b5991a46842afac060c037cfcb24")]
 [assembly: System.Reflection.AssemblyProductAttribute("HW-END-BLOCK")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HW-END-BLOCK")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

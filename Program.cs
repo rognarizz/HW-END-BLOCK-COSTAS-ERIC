@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 class Program
 {
     static void Main()
@@ -46,9 +47,13 @@ class Program
     static void PrintArray(string[] array)
     {
         Console.WriteLine("Новый массив строк, длина которых <= 3 символа:");
-        foreach (string str in array)
+
+        Console.Write("[ ");
+        for (int i = 0; i < array.Length; i++)
         {
-            Console.WriteLine(str);
+            Console.Write($"'{array[i]}', ");
         }
+        Console.Write("]");
+
     }
 }
