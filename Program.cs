@@ -25,4 +25,20 @@ class Program
         }
     }
 
+    static string[] CreateNewArray(string[] array)
+    {
+        string[] resultArray = new string[count];
+        int index = 0;
+
+        for (int i = 0; i < initialArray.Length; i++)
+        {
+            if (initialArray[i].Length <= 3)
+            {
+                resultArray[index] = initialArray[i];
+                index++;
+            }
+        }
+        return resultArray;
+    }
 }
+
